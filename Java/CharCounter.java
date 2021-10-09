@@ -21,3 +21,7 @@ public class CharCounter {
 	}
 
 }
+
+/* Output :
+6
+*/
